@@ -1,0 +1,58 @@
+{
+  "todo": [
+    {
+      "id": "0.9246871609530227",
+      "title": "patchテスト",
+      "editing": false,
+      "completed": false
+    },
+    {
+      "id": "0.7547546873558264",
+      "title": "idのチェック",
+      "editing": false,
+      "completed": false
+    },
+    {
+      "id": "0.1821339352218838",
+      "title": "買い物",
+      "editing": false,
+      "completed": false
+    },
+    {
+      "id": "0.6122879961280976",
+      "title": "アルバイト",
+      "editing": false,
+      "completed": false
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "nari",
+      "age": "40",
+      "hobbies": [
+        "snowboard",
+        "movie"
+      ],
+      "premiumAccount": true
+    },
+    {
+      "id": "2",
+      "username": "nariCode",
+      "age": "35",
+      "hobbies": [
+        "movie"
+      ],
+      "premiumAccount": false
+    },
+    {
+      "id": "3",
+      "username": "sora",
+      "age": "10",
+      "hobbies": [
+        "game"
+      ],
+      "premiumAccount": false
+    }
+  ]
+}
